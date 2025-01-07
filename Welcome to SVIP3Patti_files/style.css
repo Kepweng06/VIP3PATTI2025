@@ -337,7 +337,7 @@ font-size: 0.75rem;
     top: 0;
     bottom: 0;
     margin: 21.5rem auto;
-    width: 6.5rem;
+    width: 3rem;
     height: 3rem;
     z-index: 999;
   }
@@ -349,5 +349,5 @@ font-size: 0.75rem;
 @media only screen and (max-width: 768px) {
 	.center .downBtn img {
     width: 100%;
-}
+  }
 }
