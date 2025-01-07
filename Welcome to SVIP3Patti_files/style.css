@@ -154,17 +154,17 @@
 .ig img {
   width: 100%;
 }
-.ws {
+.WA {
   position: fixed;
   right: 0%;
   top: 0;
   bottom: 0;
-  margin: 18.3rem auto;
+  margin: 18.5rem auto;
   width: 3rem;
   height: 3rem;
   z-index: 999;
 }
-.ws img {
+.WA img {
   width: 100%;
 }
 .tg {
@@ -172,7 +172,7 @@
   right: 0%;
   top: 0;
   bottom: 0;
-  margin: 21.5rem auto;
+  margin: 22rem auto;
   width: 3rem;
   height: 3rem;
   z-index: 999;
